@@ -1,9 +1,9 @@
-import Greet from '@/components/greet';
+import FileList from '@/components/file-list';
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <Greet />
+    <main className="flex min-h-screen flex-col p-8">
+      <FileList />
     </main>
   );
 }
