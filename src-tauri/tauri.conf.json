@@ -19,6 +19,9 @@
         "message": true,
         "open": true,
         "save": true
+      },
+      "window": {
+        "all": true
       }
     },
     "bundle": {
